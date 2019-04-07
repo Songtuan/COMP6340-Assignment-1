@@ -1,0 +1,9 @@
+\begin{thebibliography}{}
+
+\bibitem[Fielding et~al., 1999]{rfc2616}
+Fielding, R., Gettys, J., Mogul, J., Frystyk, H., Masinter, L., Leach, P., and
+  Berners-Lee, T. (1999).
+\newblock Hypertext transfer protocol -- http/1.1.
+\newblock RFC 2616, RFC Editor.
+
+\end{thebibliography}
